@@ -1,0 +1,30 @@
+h1 {
+    color:rgb(255, 0, 170) ;
+}
+
+* {
+    border: solid;
+    border-color: rgb(98, 0, 255)  ;
+}
+
+.header{
+    background-color:  rgb(40, 9, 219);
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+p{
+    text-align: center;
+    border-color: rgb(183, 24, 231);
+}
+
+.menu{
+    display:flex;
+    background-color:rgb(13, 238, 238)
+}
